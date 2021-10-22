@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CKK.Logic", "CKK.Logic\CKK.Logic.csproj", "{6EE4BBA1-3379-4215-B2D9-D2994DA0FB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE4BBA1-3379-4215-B2D9-D2994DA0FB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE4BBA1-3379-4215-B2D9-D2994DA0FB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE4BBA1-3379-4215-B2D9-D2994DA0FB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE4BBA1-3379-4215-B2D9-D2994DA0FB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3421CD0B-C695-42C5-A87B-1B19ECCCF916}
+	EndGlobalSection
+EndGlobal
